@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: C++, java  
+- 💻 Languages: C++ , java , dart , python
 - 📱 App Development: Flutter  
 - 🌐 Basics: HTML, CSS  
 - 🛢️ Database: Firebase / SQL (if applicable)  
